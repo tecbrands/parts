@@ -1,0 +1,1 @@
+Public data files for the IBM Part Number Lookup on https://www.firstlighttec.com/ibm-parts.html. Part number, description and license type only. Cut by SITE/tools/build_parts_repo.py in the Brand repository.
